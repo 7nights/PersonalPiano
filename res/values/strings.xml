@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PersonalPiano</string>
+    <string name="action_play">Play</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="cover">Cover</string>
+    <string name="music_reach_end">已经到了最后一首歌</string>
+    <string name="play_mode_random">随机播放</string>
+	<string name="play_mode_normal">顺序播放</string>
+	<string name="play_mode_single">单曲循环</string>
+	<string name="settings">设置</string>
+	<string name="play_mode">播放模式</string>
+	<string name="pref_play_mode">pref.play.mode</string>
+	<string name="exit">退出</string>
+	<string name="pick_minutes">在多少分钟后进入睡眠？</string>
+	<string name="set">设置</string>
+	<string name="cancel">取消</string>
+	<string name="set_sleep_mode">设置睡眠时间</string>
+	<string name="disabled">禁用</string>
+</resources>

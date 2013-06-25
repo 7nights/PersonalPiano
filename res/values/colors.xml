@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="progressbar_bg">#333</color>
+    <color name="aaa">#AAA</color>
+    <color name="ccc">#CCC</color>
+    <color name="transparent">#00000000</color>
+</resources>
